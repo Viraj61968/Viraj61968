@@ -6,7 +6,7 @@ I have worked on enhancing my skills in tools like Selenium, TestNG, and Tessera
 
 ## Skills  
 - **Automation Tools**: Selenium WebDriver, TestNG, Maven
--**Performance testing** : Jmeter
+- **Performance testing** : Jmeter
 - **Programming Languages**: Java  
 - **Database Knowledge**: SQL (including real-time project implementation)  
 - **Other Skills**: OCR integration, Browser Testing, Grid Setup, Jenkins CI/CD  
