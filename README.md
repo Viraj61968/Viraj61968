@@ -16,7 +16,7 @@ I have worked on enhancing my skills in tools like Selenium, TestNG, and Tessera
 - Enhancing my communication skills and contributing to open-source testing projects.  
 
 ## Contact Me  
-- **LinkedIn**: *((https://www.linkedin.com/in/viraj-nalawade-2bb440313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))*  
+- **LinkedIn**: *((http://www.linkedin.com/in/viraj-nalawade-2bb440313))*  
 - **Email**: [viraj.nalawade1998@gmail.com]  
 
 Feel free to explore my repositories and connect with me for collaborations or opportunities! 🚀  
