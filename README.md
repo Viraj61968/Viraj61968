@@ -1,8 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub Profile  
 
 ## About Me  
-I'm a passionate QA Engineer and Software Testing Enthusiast with hands-on experience in manual and automation testing. Over the past one years, 
-I have worked on enhancing my skills in tools like Selenium, TestNG, and Tesseract OCR, while also exploring parallel testing and database integration with Selenium WebDriver.  
+I'm a passionate QA Engineer and Software Testing Enthusiast with hands-on experience in manual and automation testing.  
 
 ## Skills  
 - **Automation Tools**: Selenium WebDriver, TestNG, Maven
