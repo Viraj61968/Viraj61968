@@ -4,14 +4,18 @@
 I'm a passionate QA Engineer and Software Testing Enthusiast with hands-on experience in manual and automation testing.  
 
 ## Skills  
-- **Automation Tools**: Selenium WebDriver, TestNG, Maven
-- **Performance testing** : Jmeter
-- **Programming Languages**: Java  
-- **Database Knowledge**: SQL (including real-time project implementation)  
-- **Other Skills**: OCR integration, Browser Testing, Grid Setup, Jenkins CI/CD  
+- Testing & QA: Manual Testing, Test Case Development, Test Plan Creation, Defect 
+Reporting [MS-Excel]
+-  Database: MySQL, SQL Server
+-  Automation & Tools: Selenium, Selenium Grid, TestNG, Cucumber, Jmeter
+-  Programming & Frameworks: Java, Data-Driven Testing
+-  APIs Tool & Query Languages: GraphQL, Postman
+-  Defect management Tool & Version Control: Github, Jira
+-  Methodologies: SDCL (Software Development Life Cycle), STCL (Software Testing 
+Life Cycle)
 
 ## Current Focus  
-- Building projects that combine database knowledge with QA workflows, particularly for real-world scenarios such as travel management.  
+- Building projects that combine database knowledge with QA workflows.
 - Enhancing my communication skills and contributing to open-source testing projects.  
 
 ## Contact Me  
